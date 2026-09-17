@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" fill="none">
+  <!-- Canvas Soft Fearnot White Tint -->
+  <rect width="1200" height="630" fill="#F8FAFD"/>
+
+  <!-- Card Surface Pure White with Fearnot Accent Top Bar -->
+  <rect x="40" y="40" width="1120" height="550" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+  <path d="M40 56 Q 40 40 56 40 L 1144 40 Q 1160 40 1160 56 L 1160 46 L 40 46 Z" fill="#7BA6DE"/>
+
+  <!-- Subtle Top Divider Line -->
+  <line x1="40" y1="130" x2="1160" y2="130" stroke="#E2E8F0" stroke-width="1.5"/>
+
+  <!-- Top Bar / Meta info -->
+  <text x="80" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Geist Sans', 'Helvetica Neue', sans-serif" font-size="20" font-weight="600" fill="#1A3E6D" letter-spacing="-0.5">TEKNIK INFORMATIKA • SEMESTER 5</text>
+  
+  <rect x="970" y="70" width="150" height="34" rx="17" fill="#F0F6FD" stroke="#BED8F6" stroke-width="1"/>
+  <circle cx="990" cy="87" r="4" fill="#7BA6DE"/>
+  <text x="1055" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Geist Mono', monospace" font-size="13" font-weight="600" fill="#1A3E6D" text-anchor="middle" letter-spacing="1">FEARLESS BLUE</text>
+
+  <!-- Editorial Headline -->
+  <text x="80" y="240" font-family="'Instrument Serif', 'Newsreader', 'Playfair Display', Georgia, serif" font-size="78" fill="#0F172A" letter-spacing="-2">Halaman Profil Diri &amp;</text>
+  <text x="80" y="325" font-family="'Instrument Serif', 'Newsreader', 'Playfair Display', Georgia, serif" font-size="78" fill="#1A3E6D" letter-spacing="-2">Jadwal Akademik Mahasiswa</text>
+
+  <!-- Subtitle -->
+  <text x="80" y="400" font-family="-apple-system, BlinkMacSystemFont, 'Geist Sans', sans-serif" font-size="24" fill="#475569" font-weight="400">Pengembangan Aplikasi Web • Portofolio &amp; Rencana Studi 2026/2027</text>
+
+  <!-- Bottom Badges -->
+  <rect x="80" y="460" width="280" height="52" rx="8" fill="#F0F6FD" stroke="#BED8F6" stroke-width="1"/>
+  <text x="104" y="492" font-family="-apple-system, BlinkMacSystemFont, 'Geist Mono', monospace" font-size="16" font-weight="600" fill="#1A3E6D">NIM: 22051204050</text>
+
+  <rect x="380" y="460" width="360" height="52" rx="8" fill="#F0F6FD" stroke="#BED8F6" stroke-width="1"/>
+  <text x="404" y="492" font-family="-apple-system, BlinkMacSystemFont, 'Geist Mono', monospace" font-size="16" font-weight="600" fill="#1A3E6D">PRODI: S1 TEKNIK INFORMATIKA</text>
+</svg>
