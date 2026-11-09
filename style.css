@@ -204,6 +204,13 @@ h3 { font: 600 1.125rem var(--sans); letter-spacing: -0.015em; margin-bottom: 12
 .bento-span-4 { grid-column: span 4; }
 .bento-span-12 { grid-column: span 12; }
 
+.assignment-link {
+  color: var(--text);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+.assignment-link:hover { color: var(--blue-deep); }
+
 .biodata-list { display: grid; grid-template-columns: 140px 1fr; gap: 12px 16px; font-size: 0.9375rem; margin-top: 8px; }
 .biodata-list dt { color: var(--text-secondary); font-size: 0.875rem; }
 .biodata-list dd { font-weight: 500; }
